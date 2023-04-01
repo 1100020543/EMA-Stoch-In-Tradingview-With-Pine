@@ -202,13 +202,3 @@ if (close <= PositionTargetTwoShort and Martin_Count_Short == 3) and strategy.op
 // h1 = hline(20, "Lower Band", color=#787B86)
 // fill(h0, h1, color=color.rgb(33, 150, 243, 90), title="Background")
 // 
-
-
-
-
-
-
-
-
-
-
